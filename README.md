@@ -3,7 +3,7 @@
 Final project at the course Machine Learning at the HTW Berlin
 
 
-Learning Goals 
+Learning Goals:
 
 Familiarization with the library scikit learn (sklearn).
 
